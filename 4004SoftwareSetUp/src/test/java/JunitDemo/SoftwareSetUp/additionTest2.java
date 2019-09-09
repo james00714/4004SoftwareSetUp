@@ -2,7 +2,7 @@ package JunitDemo.SoftwareSetUp;
 
 import junit.framework.TestCase;
 
-public class additionTest extends TestCase {
+public class additionTest2 extends TestCase {
 	public void testAddition () {
 		int x = 1;
 		int y = 2;
